@@ -1,1 +1,1 @@
-Hello from GIT
+echo "Hello from GIT"
